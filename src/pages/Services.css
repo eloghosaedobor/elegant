@@ -1,0 +1,12 @@
+.servicesMain {
+    background: -webkit-linear-gradient(left, green, rgb(0, 128, 96));
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: rgb(255, 255, 255);
+}
+
+.services {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

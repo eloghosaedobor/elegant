@@ -1,0 +1,32 @@
+.imago img {
+    width: 300px;
+    height: 250px;
+}
+.imago {
+    padding-top: 30px;
+    padding-bottom: 30px;	
+    background-color:#e5e5f5 ;
+}
+
+.img {
+    position: relative;
+    text-align: center;
+}
+
+.next {
+ position: absolute;
+ bottom: 20px;
+ left: 70%;
+ font-size: 30px;
+ color: white; 
+ cursor: pointer;
+}
+
+.previous {
+   position: absolute;
+   bottom: 20px;
+   right: 70%;
+   font-size: 30px; 
+   color: white; 
+   cursor: pointer;
+}

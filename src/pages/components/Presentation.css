@@ -1,0 +1,16 @@
+.presentation {
+  padding-top: 50px;
+  padding-bottom: 130px;
+  color: rgb(84, 84, 84); 
+}
+
+img {
+  width: 400px;
+}
+
+@media (max-width: 768px) { 
+  img {
+    margin-top: 40px;
+    width: 300px;
+  }
+}

@@ -1,0 +1,19 @@
+.cards {
+    background-color:#f4f4ff ; 
+    color: rgb(84, 84, 84);   
+}
+
+.cardo {
+    text-align: center;
+    padding: 20px;
+    padding-top: 50px;
+    margin-top: -40px;
+    margin-bottom: 60px;
+    background-color: white;
+}
+
+ .cardo i {
+    font-size: 30px;
+    color: turquoise;
+    
+}
