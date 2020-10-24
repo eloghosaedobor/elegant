@@ -6,27 +6,21 @@ const Navbar = (props) => {
 	return (
 		<nav>
 			<h5>
-				<NavLink to="/elegant" className="logo">
+				<NavLink to="/" className="logo">
 					LOGO
 				</NavLink>
 			</h5>
 			<i className={props.click ? 'fa fa-bars' : 'fa fa-times'} onClick={props.handleClick} id="click" />
 			<ul className={props.click ? 'unshow' : 'show'}>
 				<li>
-					<NavLink
-						exact
-						to="/elegant"
-						className="link"
-						onClick={props.hideNav}
-						activeStyle={{ color: ' #5CB85C' }}
-					>
+					<NavLink exact to="/" className="link" onClick={props.hideNav} activeStyle={{ color: ' #5CB85C' }}>
 						Home
 					</NavLink>
 				</li>
 				<li>
 					<NavLink
 						exact
-						to="/elegant/about"
+						to="/about"
 						className="link"
 						onClick={props.hideNav}
 						activeStyle={{ color: ' #5CB85C' }}
@@ -37,7 +31,7 @@ const Navbar = (props) => {
 				<li>
 					<NavLink
 						exact
-						to="/elegant/services"
+						to="/services"
 						className="link"
 						onClick={props.hideNav}
 						activeStyle={{ color: ' #5CB85C' }}
@@ -48,7 +42,7 @@ const Navbar = (props) => {
 				<li>
 					<NavLink
 						exact
-						to="/elegant/team"
+						to="/team"
 						className="link"
 						onClick={props.hideNav}
 						activeStyle={{ color: ' #5CB85C' }}
