@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/elegant/static/css/main.ead691be.chunk.css",
-    "main.js": "/elegant/static/js/main.9da2c4af.chunk.js",
-    "main.js.map": "/elegant/static/js/main.9da2c4af.chunk.js.map",
+    "main.js": "/elegant/static/js/main.ceb543d2.chunk.js",
+    "main.js.map": "/elegant/static/js/main.ceb543d2.chunk.js.map",
     "runtime-main.js": "/elegant/static/js/runtime-main.abfc2589.js",
     "runtime-main.js.map": "/elegant/static/js/runtime-main.abfc2589.js.map",
     "static/js/2.17ccef7d.chunk.js": "/elegant/static/js/2.17ccef7d.chunk.js",
     "static/js/2.17ccef7d.chunk.js.map": "/elegant/static/js/2.17ccef7d.chunk.js.map",
     "index.html": "/elegant/index.html",
-    "precache-manifest.b666a79a31cf28506f3bb9235cfbbe09.js": "/elegant/precache-manifest.b666a79a31cf28506f3bb9235cfbbe09.js",
+    "precache-manifest.2c3574da58f8bb4b1d1b8d227d8dad8c.js": "/elegant/precache-manifest.2c3574da58f8bb4b1d1b8d227d8dad8c.js",
     "service-worker.js": "/elegant/service-worker.js",
     "static/css/main.ead691be.chunk.css.map": "/elegant/static/css/main.ead691be.chunk.css.map",
     "static/js/2.17ccef7d.chunk.js.LICENSE.txt": "/elegant/static/js/2.17ccef7d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.abfc2589.js",
     "static/js/2.17ccef7d.chunk.js",
     "static/css/main.ead691be.chunk.css",
-    "static/js/main.9da2c4af.chunk.js"
+    "static/js/main.ceb543d2.chunk.js"
   ]
 }
