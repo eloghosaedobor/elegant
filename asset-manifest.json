@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/elegant/static/css/main.7ac61e20.chunk.css",
-    "main.js": "/elegant/static/js/main.58650312.chunk.js",
-    "main.js.map": "/elegant/static/js/main.58650312.chunk.js.map",
+    "main.css": "/elegant/static/css/main.8f9c2a42.chunk.css",
+    "main.js": "/elegant/static/js/main.b3e83994.chunk.js",
+    "main.js.map": "/elegant/static/js/main.b3e83994.chunk.js.map",
     "runtime-main.js": "/elegant/static/js/runtime-main.abfc2589.js",
     "runtime-main.js.map": "/elegant/static/js/runtime-main.abfc2589.js.map",
     "static/js/2.f3f9ed5b.chunk.js": "/elegant/static/js/2.f3f9ed5b.chunk.js",
     "static/js/2.f3f9ed5b.chunk.js.map": "/elegant/static/js/2.f3f9ed5b.chunk.js.map",
     "index.html": "/elegant/index.html",
-    "precache-manifest.f00e6af69cc848021ba168eee62b2eb5.js": "/elegant/precache-manifest.f00e6af69cc848021ba168eee62b2eb5.js",
+    "precache-manifest.0ae018c68073d859ddd00efda5973e89.js": "/elegant/precache-manifest.0ae018c68073d859ddd00efda5973e89.js",
     "service-worker.js": "/elegant/service-worker.js",
-    "static/css/main.7ac61e20.chunk.css.map": "/elegant/static/css/main.7ac61e20.chunk.css.map",
+    "static/css/main.8f9c2a42.chunk.css.map": "/elegant/static/css/main.8f9c2a42.chunk.css.map",
     "static/js/2.f3f9ed5b.chunk.js.LICENSE.txt": "/elegant/static/js/2.f3f9ed5b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.abfc2589.js",
     "static/js/2.f3f9ed5b.chunk.js",
-    "static/css/main.7ac61e20.chunk.css",
-    "static/js/main.58650312.chunk.js"
+    "static/css/main.8f9c2a42.chunk.css",
+    "static/js/main.b3e83994.chunk.js"
   ]
 }

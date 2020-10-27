@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c084ba11c8e0921076ff294f984d3feb",
+    "revision": "9778b0f3b133167270eade1259996c97",
     "url": "/elegant/index.html"
   },
   {
-    "revision": "8fc93385ab728fb22884",
-    "url": "/elegant/static/css/main.7ac61e20.chunk.css"
+    "revision": "a5aaf69e25241ac15a44",
+    "url": "/elegant/static/css/main.8f9c2a42.chunk.css"
   },
   {
     "revision": "abe0772a5b8cec86849f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elegant/static/js/2.f3f9ed5b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8fc93385ab728fb22884",
-    "url": "/elegant/static/js/main.58650312.chunk.js"
+    "revision": "a5aaf69e25241ac15a44",
+    "url": "/elegant/static/js/main.b3e83994.chunk.js"
   },
   {
     "revision": "29e3094d7e160cdf914d",
