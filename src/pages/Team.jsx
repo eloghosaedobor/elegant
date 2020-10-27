@@ -1,12 +1,70 @@
-import React from 'react'
+import React from 'react';
+import './Team.css';
 
 const Team = (props) => {
-    return (
-        <div onClick={props.hideNav}>
-            <h3>Team</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi odit, qui quis debitis mollitia esse minus deserunt quod deleniti praesentium consectetur accusamus officiis animi consequuntur vel, sunt fuga obcaecati id nam illum. Expedita illo modi pariatur, minus tenetur, ducimus tempore sit doloribus mollitia deleniti excepturi. Quasi sint vero hic consequatur.</p>
-        </div>
-    )
-}
+	return (
+		<div onClick={props.hideNav}>
+			<div className="team">
+				<h3 className="mb-2">Our Team</h3>
+				<div className="container">
+					<div className="row">
+						<div className="col-md-6 mt-3">
+							<img
+								src="./assets/male.png"
+								alt="img"
+								className="img-fluid d-block mx-auto rounded-circle"
+							/>
+							<p>John Doe (CEO)</p>
+						</div>
+						<div className="col-md-6 mt-3">
+							<img
+								src="./assets/download.png"
+								alt="img"
+								className="img-fluid d-block mx-auto rounded-circle"
+							/>
+							<p>Mary Jane (CFO)</p>
+						</div>
+					</div>
+					<div className="row">
+						<div className="col-md-6 mt-3">
+							<img
+								src="./assets/male.png"
+								alt="img"
+								className="img-fluid d-block mx-auto rounded-circle"
+							/>
+							<p>John Doe (CEO)</p>
+						</div>
+						<div className="col-md-6 mt-3">
+							<img
+								src="./assets/download.png"
+								alt="img"
+								className="img-fluid d-block mx-auto rounded-circle"
+							/>
+							<p>Mary Jane (CFO)</p>
+						</div>
+					</div>
+					<div className="row">
+						<div className="col-md-6 mt-3">
+							<img
+								src="./assets/male.png"
+								alt="img"
+								className="img-fluid d-block mx-auto rounded-circle"
+							/>
+							<p>John Doe (CEO)</p>
+						</div>
+						<div className="col-md-6 mt-3">
+							<img
+								src="./assets/download.png"
+								alt="img"
+								className="img-fluid d-block mx-auto rounded-circle"
+							/>
+							<p>Mary Jane (CFO)</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	);
+};
 
-export default Team
+export default Team;

@@ -61,16 +61,21 @@ const Footer = (props) => {
 				</div>
 				<hr />
 				<div className="row">
-					<div className="col-md-4 mt-2">
+					<div className="col-md-3 mt-3">
 						LOGO <i className="fa fa-leaf" />
 					</div>
-					<div className="col-md-4 mt-2 social">
+					<div className="col-md-3 mt-3 social">
 						<i className="fab fa-facebook" />
 						<i className="fab fa-instagram" />
 						<i className="fab fa-youtube" />
 						<i className="fab fa-twitter" />
 					</div>
-					<div className="col-md-4 mt-2">Elego 2020</div>
+					<div className="col-md-3 mt-3">Eloghosa Edobor 2020</div>
+					<div className="col-md-3 mt-3">
+						<a href="http://www.github.com/eloghosaedobor/elegant" target="_blank">
+							<i style={{ color: 'white', fontSize: '30px' }} className="fab fa-github" />
+						</a>
+					</div>
 				</div>
 			</div>
 		</footer>

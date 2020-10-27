@@ -5,7 +5,7 @@
 .imago {
     padding-top: 30px;
     padding-bottom: 30px;	
-    background-color:#e5e5f5 ;
+    background: -webkit-linear-gradient(left, #cbcbf8, #8080b6);
 }
 
 .img {
