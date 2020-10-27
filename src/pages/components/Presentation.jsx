@@ -3,28 +3,25 @@ import { Link } from 'react-router-dom/cjs/react-router-dom.min';
 import './Presentation.css';
 
 const Presentation = () => {
-	const [ h3, seth3 ] = useState('The only food API.');
+	const [ h3, seth3 ] = useState('Because you’re worth it.');
 	const [ svg, setsvg ] = useState('./assets/1.svg');
-	const [ button, setbutton ] = useState('btn btn-success mt-3');
 	const [ background, setBackground ] = useState({
-		backgroundColor: '#e9e9f7'
+		backgroundColor: '#cbcbf8'
 	});
 
 	useEffect(() => {
-		const h3 = [ 'Contact us today.', 'The only food API.' ];
+		const h3 = [ 'Brutal simplicity of thought.', 'Because you’re worth it.' ];
 		const background = [ '#e9e9f7', '#cbcbf8' ];
 		const svg = [ './assets/2.svg', './assets/1.svg' ];
-		const button = [ 'btn btn-danger mt-3', 'btn btn-success mt-3' ];
 		let x = 0;
 		setInterval(() => {
 			x++;
-			if (x >= h3.length && x >= background.length && x >= svg.length && x >= button.length) {
+			if (x >= h3.length && x >= svg.length) {
 				x = 0;
 			}
 			seth3(h3[x]);
-			setBackground({ backgroundColor: background[x] });
+
 			setsvg(svg[x]);
-			setbutton(button[x]);
 		}, 2000);
 	}, []);
 
@@ -44,7 +41,7 @@ const Presentation = () => {
 							numquam perferendis fuga accusamus blanditiis saepe.
 						</p>
 						<Link to="/about">
-							<button className={button}>Learn more</button>
+							<button className="btn btn-success">Learn more</button>
 						</Link>
 					</div>
 

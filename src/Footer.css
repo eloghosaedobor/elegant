@@ -1,6 +1,27 @@
 footer {
-    background-color:rgb(165, 165, 165);
+    background-color:#1b1a1a;
     text-align: center;
     padding: 60px;
-    color: rgb(55, 55, 55);
+    color: rgb(255, 255, 255);
+}
+
+footer Link, footer a {
+    display: block;
+    margin-top: 10px;
+}
+
+footer button {
+    background-color: transparent;
+    border: none;
+    border: 1px solid white;
+    color: white;
+    margin-left: 5px;
+}
+
+hr {
+    background-color: white;
+}
+
+.social i {
+    padding-left: 20px;
 }

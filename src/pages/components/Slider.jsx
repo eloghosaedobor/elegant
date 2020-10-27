@@ -43,10 +43,10 @@ const Slider = () => {
 						<img src="./assets/burger.png" className="img-fluid d-block mx-auto" alt="" />
 					</div>
 					<div>
-						<img src="./assets/3.svg" className="img-fluid d-block mx-auto" alt="" />
+						<img src="./assets/soup.jpg" className="img-fluid d-block mx-auto" alt="" />
 					</div>
 					<div>
-						<img src="./assets/hello.svg" className="img-fluid d-block mx-auto" alt="" />
+						<img src="./assets/rice.jpg" className="img-fluid d-block mx-auto" alt="" />
 					</div>
 				</div>
 			</div>

@@ -1,8 +1,8 @@
 nav {
-  background-color:#e9e9f7 ;
+  background-color:#cbcbf8 ;
   min-height: 70px;
   position: relative;
-  /* border-bottom: 1px solid #c7c7df; */
+  border-bottom: 1px solid #b7b7eb; 
 }
 .link {
   color: rgb(84, 84, 84);

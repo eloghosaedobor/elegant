@@ -31,7 +31,7 @@ const Imago = () => {
 						<i className="fa fa-angle-right next" onClick={increment} />
 					</div>
 					<div className="col-md-6">
-						<img src="assets/hello.svg" alt="" className="img-fluid d-block mx-auto" />
+						<img src="./assets/1.svg" alt="" className="img-fluid d-block mx-auto" />
 					</div>
 				</div>
 			</div>

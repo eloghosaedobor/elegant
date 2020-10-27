@@ -7,7 +7,7 @@ const Navbar = (props) => {
 		<nav>
 			<h5>
 				<NavLink to="/" className="logo">
-					LOGO
+					LOGO <i className="fa fa-leaf" />
 				</NavLink>
 			</h5>
 			<i className={props.click ? 'fa fa-bars' : 'fa fa-times'} onClick={props.handleClick} id="click" />
