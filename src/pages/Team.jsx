@@ -32,7 +32,7 @@ const Team = (props) => {
 								alt="img"
 								className="img-fluid d-block mx-auto rounded-circle"
 							/>
-							<p>John Doe (CEO)</p>
+							<p>John Doe (Accountant)</p>
 						</div>
 						<div className="col-md-6 mt-3">
 							<img
@@ -40,7 +40,7 @@ const Team = (props) => {
 								alt="img"
 								className="img-fluid d-block mx-auto rounded-circle"
 							/>
-							<p>Mary Jane (CFO)</p>
+							<p>Mary Jane (Marketer)</p>
 						</div>
 					</div>
 					<div className="row">
@@ -50,7 +50,7 @@ const Team = (props) => {
 								alt="img"
 								className="img-fluid d-block mx-auto rounded-circle"
 							/>
-							<p>John Doe (CEO)</p>
+							<p>John Doe (Secretary)</p>
 						</div>
 						<div className="col-md-6 mt-3">
 							<img
@@ -58,7 +58,7 @@ const Team = (props) => {
 								alt="img"
 								className="img-fluid d-block mx-auto rounded-circle"
 							/>
-							<p>Mary Jane (CFO)</p>
+							<p>Mary Jane (Intern)</p>
 						</div>
 					</div>
 				</div>
