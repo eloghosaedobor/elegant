@@ -3,7 +3,7 @@ import Cards from './components/Cards.jsx';
 import Imago from './components/Imago.jsx';
 import Presentation from './components/Presentation.jsx';
 import Slider from './components/Slider.jsx';
-import Map from './components/Map.jsx';
+// import Map from './components/Map.jsx';
 
 const Home = (props) => {
 	return (
@@ -12,7 +12,7 @@ const Home = (props) => {
 			<Cards />
 			<Slider />
 			<Imago />
-			<Map />
+			{/* <Map /> */}
 		</div>
 	);
 };

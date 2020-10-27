@@ -6,7 +6,7 @@ import Services from './pages/Services';
 import Team from './pages/Team';
 import Navbar from './Navbar';
 import Footer from './Footer';
-import './App.css';
+import './App.css'
 
 
 const App = () => {
