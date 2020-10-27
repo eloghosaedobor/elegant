@@ -16,10 +16,19 @@ footer button {
     border: 1px solid white;
     color: white;
     margin-left: 5px;
+} footer button:hover {
+    background-color: white;
+    color: black;
+}
+footer button:focus {
+    outline: none;
 }
 
 footer input {
     width: 100%;
+}
+footer input:focus {
+    outline: none;
 }
 footer form {
     display: flex;

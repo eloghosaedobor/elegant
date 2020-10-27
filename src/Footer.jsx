@@ -10,7 +10,9 @@ const Footer = (props) => {
 				<p>You can unsubscribe at any time</p>
 				<form className="mb-5">
 					<input type="text" placeholder="Your email" className="p-2" />
-					<button className="p-2">Subscribe</button>
+					<button type="button" className="p-2">
+						Subscribe
+					</button>
 				</form>
 				<hr />
 				<div className="row mb-5">
