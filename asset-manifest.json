@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/elegant/static/css/main.7cbc0d1a.chunk.css",
-    "main.js": "/elegant/static/js/main.b375b44c.chunk.js",
-    "main.js.map": "/elegant/static/js/main.b375b44c.chunk.js.map",
+    "main.css": "/elegant/static/css/main.a8775310.chunk.css",
+    "main.js": "/elegant/static/js/main.72477484.chunk.js",
+    "main.js.map": "/elegant/static/js/main.72477484.chunk.js.map",
     "runtime-main.js": "/elegant/static/js/runtime-main.abfc2589.js",
     "runtime-main.js.map": "/elegant/static/js/runtime-main.abfc2589.js.map",
-    "static/js/2.f3f9ed5b.chunk.js": "/elegant/static/js/2.f3f9ed5b.chunk.js",
-    "static/js/2.f3f9ed5b.chunk.js.map": "/elegant/static/js/2.f3f9ed5b.chunk.js.map",
+    "static/js/2.19ecf05a.chunk.js": "/elegant/static/js/2.19ecf05a.chunk.js",
+    "static/js/2.19ecf05a.chunk.js.map": "/elegant/static/js/2.19ecf05a.chunk.js.map",
     "index.html": "/elegant/index.html",
-    "precache-manifest.bee09b917921747e218ce231470f9e87.js": "/elegant/precache-manifest.bee09b917921747e218ce231470f9e87.js",
+    "precache-manifest.86de15d5471cd42fa795b7654de56f4a.js": "/elegant/precache-manifest.86de15d5471cd42fa795b7654de56f4a.js",
     "service-worker.js": "/elegant/service-worker.js",
-    "static/css/main.7cbc0d1a.chunk.css.map": "/elegant/static/css/main.7cbc0d1a.chunk.css.map",
-    "static/js/2.f3f9ed5b.chunk.js.LICENSE.txt": "/elegant/static/js/2.f3f9ed5b.chunk.js.LICENSE.txt"
+    "static/css/main.a8775310.chunk.css.map": "/elegant/static/css/main.a8775310.chunk.css.map",
+    "static/js/2.19ecf05a.chunk.js.LICENSE.txt": "/elegant/static/js/2.19ecf05a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.abfc2589.js",
-    "static/js/2.f3f9ed5b.chunk.js",
-    "static/css/main.7cbc0d1a.chunk.css",
-    "static/js/main.b375b44c.chunk.js"
+    "static/js/2.19ecf05a.chunk.js",
+    "static/css/main.a8775310.chunk.css",
+    "static/js/main.72477484.chunk.js"
   ]
 }
